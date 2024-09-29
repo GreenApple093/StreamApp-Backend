@@ -100,7 +100,4 @@ This project is licensed under the MIT License. Feel free to check the [LICENSE]
 
 ---
 
-Big thanks to everyone who’s been part of this journey so far. This project’s just getting started, and we’re super pumped for what’s next. Let’s keep building, learning, and having fun. 💪🚀
-```
 
-This version has a friendly, informal tone and gives credit to the collaborative efforts. Let me know if you'd like to tweak anything further!
