@@ -55,29 +55,6 @@ Don’t forget to update those env variables to match your prod environment!
 - **User Profiles**: Upload avatars, update your details—flex your profile! 😎
 - **Video Metadata**: Manage all the cool info about your streams like titles and descriptions.
 
-## API Endpoints
-
-Here's the rundown of our core endpoints:
-
-### Authentication
-- `POST /api/auth/register` - Register new users
-- `POST /api/auth/login` - User login (token-based authentication)
-
-### User
-- `GET /api/users` - Fetch all users
-- `GET /api/users/:id` - Fetch a user by ID
-- `PUT /api/users/:id` - Update a user’s profile
-
-### Stream
-- `POST /api/streams` - Create a stream
-- `GET /api/streams` - Get all streams
-- `GET /api/streams/:id` - Fetch stream by ID
-- `PUT /api/streams/:id` - Update stream info
-- `DELETE /api/streams/:id` - Delete a stream
-
-### Chat (if applicable)
-- `POST /api/chat` - Send messages during a stream
-- `GET /api/chat/:streamId` - Fetch chat messages for a specific stream
 
 ## Technologies
 
